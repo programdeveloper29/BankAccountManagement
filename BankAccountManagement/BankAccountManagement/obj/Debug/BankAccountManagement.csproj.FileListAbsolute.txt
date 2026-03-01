@@ -1,7 +1,0 @@
-F:\C#_Programs\BankAccountManagement\BankAccountManagement\bin\Debug\BankAccountManagement.exe.config
-F:\C#_Programs\BankAccountManagement\BankAccountManagement\bin\Debug\BankAccountManagement.exe
-F:\C#_Programs\BankAccountManagement\BankAccountManagement\bin\Debug\BankAccountManagement.pdb
-F:\C#_Programs\BankAccountManagement\BankAccountManagement\obj\Debug\BankAccountManagement.csproj.AssemblyReference.cache
-F:\C#_Programs\BankAccountManagement\BankAccountManagement\obj\Debug\BankAccountManagement.csproj.CoreCompileInputs.cache
-F:\C#_Programs\BankAccountManagement\BankAccountManagement\obj\Debug\BankAccountManagement.exe
-F:\C#_Programs\BankAccountManagement\BankAccountManagement\obj\Debug\BankAccountManagement.pdb
